@@ -6,8 +6,8 @@ function TopNavigationBar(props) {
     <div>
       Top Nav Bar
       <ButtonToolbar>
-        <button>Link1</button>
-        <button>Link2</button>
+        <button>Link-1</button>
+        <button>Link-2</button>
       </ButtonToolbar>
     </div>
   );
